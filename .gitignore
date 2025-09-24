@@ -1,0 +1,20 @@
+# Build artifacts
+.build/
+*.xcodeproj/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Whisper venv (if created)
+whisper_venv/
